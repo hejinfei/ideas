@@ -11,6 +11,14 @@ th { border-bottom: 1px solid #DDD !important; }
 td.picture { width: 140px; }
 td.picture img { width: 140px; }
 
+.brand {
+  font-size: 30px;
+  color:red;
+}
+
+a.brand:hover {
+  text-decoration: none;
+}
 
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
